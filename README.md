@@ -1,14 +1,14 @@
-# Pratibha Singh  
+# PRATIBHA SINGH  
 ### Full Stack Python Developer  
 
 📍 India | 💼 Open to Full-Time Opportunities  
-📧 Email: your-email@example.com  
+📧 Email: pratibha15032002@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pratibhasingh2002  
 💻 GitHub: https://github.com/pratibha15032002  
 
 ---
 
-## Professional Summary  
+##  Summary  
 
 Detail-oriented **Full Stack Python Developer** with hands-on experience in designing, developing, and deploying web applications using **Python, Django, React, and REST APIs**.  
 Strong understanding of **data structures, OOP concepts, system workflows**, and modern **DevOps practices**. Actively seeking an opportunity to contribute to a growth-oriented organization.
