@@ -28,11 +28,10 @@ I enjoy working at the intersection of **design and development**, collaborating
 </p>
 
 ---
-
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratibha15032002&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratibha15032002&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -40,8 +39,8 @@ I enjoy working at the intersection of **design and development**, collaborating
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratibha15032002&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibha15032002&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratibha15032002&show_icons=true&theme=radical&hide_border=true" height="170" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibha15032002&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages Card" />
 </p>
 
 ---
@@ -49,7 +48,7 @@ I enjoy working at the intersection of **design and development**, collaborating
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratibha15032002&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratibha15032002&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -57,9 +56,9 @@ I enjoy working at the intersection of **design and development**, collaborating
 ## 👀 Profile Views  
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/pratibha15032002/count.svg" />
+  <img src="https://profile-counter.glitch.me/pratibha15032002/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
-### 💡 *“Code is not just code, it’s a solution to real problems.”*  
+### 💡 *“Code is not just code, it’s a solution to real problems.”*
