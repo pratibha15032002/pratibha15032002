@@ -98,7 +98,7 @@ To secure a challenging position as a **Python / Full Stack Developer** where I 
 
 ---
 
-*This profile represents my professional journey, technical skills, and readiness to contribute as a software developer in a corporate environment.*
+
 
 ## 📈 Contribution Graph  
 
