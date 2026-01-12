@@ -1,42 +1,111 @@
-# Hi there 👋, I'm Pratibha Singh  
+# Pratibha Singh  
+### Full Stack Python Developer  
 
-### 🚀 Full Stack Python Developer  
-
-[![YouTube](https://img.shields.io/badge/YouTube-PratibhaSingh-red?logo=youtube)](https://www.youtube.com/@pratibhasingh8449)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PratibhaSingh-blue?logo=linkedin)](https://www.linkedin.com/in/pratibhasingh2002)
-[![Instagram](https://img.shields.io/badge/Instagram-PratibhaSingh-pink?logo=instagram)](https://www.instagram.com/anuu__singh_/)
-
----
-
-## 👩‍💻 About Me  
-
-I am a **Full Stack Python Developer** with a strong passion for building scalable, high-performance web applications.  
-I enjoy working at the intersection of **design and development**, collaborating with cross-functional teams, and transforming ideas into real-world solutions.
-
-- 🔹 Backend: Python, Django, Flask, Node.js  
-- 🔹 Frontend: React.js, Angular, HTML5, CSS3, JavaScript  
-- 🔹 Cloud & DevOps: AWS, GCP, Azure, Docker, Kubernetes  
-- 🔹 Databases: MongoDB, MySQL, Oracle, PostgreSQL  
-- 🔹 CI/CD & Tools: Git, Jenkins, Postman  
+📍 India | 💼 Open to Full-Time Opportunities  
+📧 Email: your-email@example.com  
+🔗 LinkedIn: https://www.linkedin.com/in/pratibhasingh2002  
+💻 GitHub: https://github.com/pratibha15032002  
 
 ---
 
-## 🛠️ Tech Stack  
+## Professional Summary  
+
+Detail-oriented **Full Stack Python Developer** with hands-on experience in designing, developing, and deploying web applications using **Python, Django, React, and REST APIs**.  
+Strong understanding of **data structures, OOP concepts, system workflows**, and modern **DevOps practices**. Actively seeking an opportunity to contribute to a growth-oriented organization.
+
+---
+
+## 🔑 Core Competencies (Recruiter Focused)
+
+- REST API Development & Integration  
+- Authentication & Authorization (JWT, Role-Based Access)  
+- Database Design & Optimization  
+- Frontend–Backend Integration  
+- API Testing & Debugging  
+- Cloud Deployment & CI/CD Pipelines  
+- Agile & SDLC Understanding  
+
+---
+
+## Technical Skills  
+
+**Languages:**  
+Python, JavaScript, TypeScript, C, C++, Java  
+
+**Backend:**  
+Django, Flask, Node.js, Express.js  
+
+**Frontend:**  
+React.js, Angular, HTML5, CSS3, Bootstrap  
+
+**Databases:**  
+MongoDB, MySQL, PostgreSQL, Oracle  
+
+**DevOps & Cloud:**  
+Docker, Kubernetes, AWS, GCP, Azure  
+
+**Tools:**  
+Git, GitHub, Jenkins, Postman, Linux  
+
+---
+
+## 💼 Project Experience (Job-Ready)
+
+### Doctor Appointment Booking System  
+**Tech:** React, Node.js, MongoDB  
+- Built full authentication system (User/Admin)  
+- Designed REST APIs for appointment scheduling  
+- Implemented secure database operations  
+- Improved UI responsiveness and usability  
+
+### Weather & To-Do Application  
+**Tech:** Python, Third-Party APIs  
+- Integrated external weather APIs  
+- Developed CRUD-based To-Do functionality  
+- Focused on clean code and error handling  
+
+### URL Redirect & Tracking System  
+**Tech:** Python, Backend APIs  
+- Designed lightweight URL redirection logic  
+- Implemented logging and request tracking  
+- Improved response time and reliability  
+
+---
+
+## 📌 What I Bring to the Team  
+
+- Ability to convert **business requirements into working code**  
+- Strong debugging and problem-solving mindset  
+- Clean, maintainable, and scalable code practices  
+- Quick learner with adaptability to new tools  
+- Effective communication and teamwork skills  
+
+---
+
+## 🎯 Career Objective  
+
+To secure a challenging position as a **Python / Full Stack Developer** where I can apply my technical skills, continuously learn new technologies, and contribute to building impactful software solutions.
+
+---
+
+## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,react,angular,html,css,javascript,typescript,mongodb,mysql,postgresql,docker,kubernetes,aws,git,linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratibha15032002&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibha15032002&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## ✅ Availability  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratibha15032002&show_icons=true&theme=radical&hide_border=true" height="170" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibha15032002&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages Card" />
-</p>
+✔ Open to Full-Time / Entry-Level Roles  
+✔ Ready for Technical Interviews  
+✔ Immediate Joiner (if applicable)  
 
 ---
+
+*This profile represents my professional journey, technical skills, and readiness to contribute as a software developer in a corporate environment.*
 
 ## 📈 Contribution Graph  
 
