@@ -28,13 +28,6 @@ I enjoy working at the intersection of **design and development**, collaborating
 </p>
 
 ---
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratibha15032002&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 
@@ -53,12 +46,4 @@ I enjoy working at the intersection of **design and development**, collaborating
 
 ---
 
-## 👀 Profile Views  
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pratibha15032002/count.svg" alt="Visitor Count" />
-</p>
-
----
-
-### 💡 *“Code is not just code, it’s a solution to real problems.”*
